@@ -1,0 +1,13 @@
+This project contains the final source code to the Google AppEngine series of O'Reilly videos with Dan Pilone.  This repository has the full final functionality that's built over the following four videos:
+
+Developing Applications on a Cloud Platform
+http://oreilly.com/catalog/0636920010739/
+
+Data Persistence in Google App Engine
+http://oreilly.com/catalog/0636920010746/
+
+User Accounts and memcache in Google AppEngine
+http://oreilly.com/catalog/0636920010753/
+
+Email, XMPP, and Task Queues in Google AppEngine
+http://oreilly.com/catalog/0636920010760/
